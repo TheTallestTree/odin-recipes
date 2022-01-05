@@ -1,0 +1,25 @@
+.page {
+  background-color: cadetblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.page-heading,
+.description,
+.ingredients,
+.steps {
+  font-weight: bold;
+  color: aliceblue;
+  text-align: center;
+}
+
+.description-text {
+  text-align: center;
+}
+
+img {
+  text-align: center;
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+  width: 50%;
+}
